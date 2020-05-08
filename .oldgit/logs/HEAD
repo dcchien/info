@@ -1,0 +1,69 @@
+0000000000000000000000000000000000000000 cd2a93bb7282948433a9b6edd847c47e3d3619f4 Dave C <12160407+dcchien@users.noreply.github.com> 1582573763 -0500	clone: from https://github.com/dcchien/info
+cd2a93bb7282948433a9b6edd847c47e3d3619f4 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588045255 -0400	commit: update ksh script
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588296864 -0400	checkout: moving from master to release.1
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588296895 -0400	checkout: moving from release.1 to origin
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588296938 -0400	checkout: moving from f7b5097bbd84b761d17be0dccaa04e32e1f648b6 to master
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588788739 -0400	rebase -i (start): checkout master
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588788739 -0400	rebase -i (finish): returning to refs/heads/master
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588788782 -0400	checkout: moving from master to master
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588789612 -0400	rebase -i (start): checkout HEAD~4
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 f7b5097bbd84b761d17be0dccaa04e32e1f648b6 Dave C <12160407+dcchien@users.noreply.github.com> 1588789612 -0400	rebase -i (finish): returning to refs/heads/master
+f7b5097bbd84b761d17be0dccaa04e32e1f648b6 72cf70e2a8437769c8e00e5357cf1048b23cd269 Dave C <12160407+dcchien@users.noreply.github.com> 1588790003 -0400	rebase -i (start): checkout HEAD~5
+72cf70e2a8437769c8e00e5357cf1048b23cd269 10b1a7aff0ff249fafb1a356db22a7bcd61db3f4 Dave C <12160407+dcchien@users.noreply.github.com> 1588790003 -0400	rebase -i (squash): # This is a combination of 2 commits.
+10b1a7aff0ff249fafb1a356db22a7bcd61db3f4 fc69dfe2731e051d470798365c00788e90daeafd Dave C <12160407+dcchien@users.noreply.github.com> 1588790003 -0400	rebase -i (squash): Update README.md
+fc69dfe2731e051d470798365c00788e90daeafd 806fb1b1018702ec8dc965339e9455ebc0afd4af Dave C <12160407+dcchien@users.noreply.github.com> 1588790064 -0400	rebase -i (pick): update info/MD file
+806fb1b1018702ec8dc965339e9455ebc0afd4af 2a44d7a49186f4e315692217112380d9be9813ba Dave C <12160407+dcchien@users.noreply.github.com> 1588790064 -0400	rebase -i (pick): update ksh script
+2a44d7a49186f4e315692217112380d9be9813ba 2a44d7a49186f4e315692217112380d9be9813ba Dave C <12160407+dcchien@users.noreply.github.com> 1588790064 -0400	rebase -i (finish): returning to refs/heads/master
+2a44d7a49186f4e315692217112380d9be9813ba 28916ae9d0ce865402f26af836c0dbf6c8123f15 Dave C <12160407+dcchien@users.noreply.github.com> 1588790208 -0400	pull: Merge made by the 'recursive' strategy.
+28916ae9d0ce865402f26af836c0dbf6c8123f15 f98b1958229030256ac51a63aa75af7a7af40243 Dave C <12160407+dcchien@users.noreply.github.com> 1588806623 -0400	rebase -i (start): checkout HEAD~5
+f98b1958229030256ac51a63aa75af7a7af40243 96c1666fbb0459f2f179cc610d9d74db3017a63e Dave C <12160407+dcchien@users.noreply.github.com> 1588806688 -0400	commit (amend): Update README.md
+96c1666fbb0459f2f179cc610d9d74db3017a63e 872905d57c8aa7b296e457a9ffee8d13405bddf0 Dave C <12160407+dcchien@users.noreply.github.com> 1588806793 -0400	rebase -i (pick): Update README.md
+872905d57c8aa7b296e457a9ffee8d13405bddf0 872905d57c8aa7b296e457a9ffee8d13405bddf0 Dave C <12160407+dcchien@users.noreply.github.com> 1588806793 -0400	rebase -i (finish): returning to refs/heads/master
+872905d57c8aa7b296e457a9ffee8d13405bddf0 b85c2426c39803ebd033b6ffd2f0c8359a3656ec Dave C <12160407+dcchien@users.noreply.github.com> 1588807120 -0400	commit (merge): merge with 2 changes
+b85c2426c39803ebd033b6ffd2f0c8359a3656ec d526b1b8bf4eabeae4a499e01249bd840bcde9a5 Dave C <12160407+dcchien@users.noreply.github.com> 1588807629 -0400	commit: updated README.md
+d526b1b8bf4eabeae4a499e01249bd840bcde9a5 e2907f28ee433554929666110d715e900e12d42a Dave C <12160407+dcchien@users.noreply.github.com> 1588808483 -0400	commit: update README.md
+e2907f28ee433554929666110d715e900e12d42a 7b6c578765f049a85918590d231539b072fab1e1 Dave C <12160407+dcchien@users.noreply.github.com> 1588809261 -0400	commit: README.md
+7b6c578765f049a85918590d231539b072fab1e1 6283c5f997ea317083a7d738dc49ec54bca85b0e Dave C <12160407+dcchien@users.noreply.github.com> 1588809721 -0400	commit: update README.md
+6283c5f997ea317083a7d738dc49ec54bca85b0e d526b1b8bf4eabeae4a499e01249bd840bcde9a5 Dave C <12160407+dcchien@users.noreply.github.com> 1588809840 -0400	rebase -i (start): checkout HEAD~4
+d526b1b8bf4eabeae4a499e01249bd840bcde9a5 9dd0d3ed5e233521ec329fa6061ede3e543578c4 Dave C <12160407+dcchien@users.noreply.github.com> 1588809840 -0400	rebase -i (squash): # This is a combination of 2 commits.
+9dd0d3ed5e233521ec329fa6061ede3e543578c4 78daa89951a7de41545fff0dc3701cb97e1a4c5c Dave C <12160407+dcchien@users.noreply.github.com> 1588809840 -0400	rebase -i (squash): # This is a combination of 3 commits.
+78daa89951a7de41545fff0dc3701cb97e1a4c5c 9d1d6261a3581c2fc575b03d050b4ecc8286a01b Dave C <12160407+dcchien@users.noreply.github.com> 1588809840 -0400	rebase -i (squash): updated README.md
+9d1d6261a3581c2fc575b03d050b4ecc8286a01b 9d1d6261a3581c2fc575b03d050b4ecc8286a01b Dave C <12160407+dcchien@users.noreply.github.com> 1588809840 -0400	rebase -i (finish): returning to refs/heads/master
+9d1d6261a3581c2fc575b03d050b4ecc8286a01b 9d1d6261a3581c2fc575b03d050b4ecc8286a01b Dave C <12160407+dcchien@users.noreply.github.com> 1588810339 -0400	reset: moving to HEAD
+9d1d6261a3581c2fc575b03d050b4ecc8286a01b b35463ed48a9349cd1576f414f5291fb92def321 Dave C <12160407+dcchien@users.noreply.github.com> 1588810405 -0400	commit (merge): update README.md file
+b35463ed48a9349cd1576f414f5291fb92def321 0ec3e648703f45b2cf66e90fb2e974a386e307fc Dave C <12160407+dcchien@users.noreply.github.com> 1588810557 -0400	commit: README.md
+0ec3e648703f45b2cf66e90fb2e974a386e307fc 75e4fed70dea2d2ed31fc278fcca965c527dd2c0 Dave C <12160407+dcchien@users.noreply.github.com> 1588811404 -0400	commit: update README.md
+75e4fed70dea2d2ed31fc278fcca965c527dd2c0 435e323cb63fb919e8e29c87dfa69e6bc4720555 Dave C <12160407+dcchien@users.noreply.github.com> 1588811437 -0400	pull: Merge made by the 'recursive' strategy.
+435e323cb63fb919e8e29c87dfa69e6bc4720555 435e323cb63fb919e8e29c87dfa69e6bc4720555 Dave C <12160407+dcchien@users.noreply.github.com> 1588812047 -0400	reset: moving to HEAD
+435e323cb63fb919e8e29c87dfa69e6bc4720555 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588812213 -0400	commit: update REMDED.me
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588815081 -0400	rebase -i (start): checkout refs/remotes/origin/master
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588815081 -0400	rebase -i (finish): returning to refs/heads/master
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 a11ed107d91e29609b1208677eaae1c883da3fc3 Dave C <12160407+dcchien@users.noreply.github.com> 1588815438 -0400	rebase -i (start): checkout HEAD~10
+a11ed107d91e29609b1208677eaae1c883da3fc3 d6f1bae57674e0fe49f14796b3b75ba18560562c Dave C <12160407+dcchien@users.noreply.github.com> 1588815438 -0400	rebase -i (fixup): # This is a combination of 2 commits.
+d6f1bae57674e0fe49f14796b3b75ba18560562c c519349e7246a6f2e31bfab52fad3eaac71789de Dave C <12160407+dcchien@users.noreply.github.com> 1588815439 -0400	rebase -i (fixup): # This is a combination of 3 commits.
+c519349e7246a6f2e31bfab52fad3eaac71789de 06b91c643740a21b68d806ec3f7dfc6125de3229 Dave C <12160407+dcchien@users.noreply.github.com> 1588815439 -0400	rebase -i (fixup): # This is a combination of 4 commits.
+06b91c643740a21b68d806ec3f7dfc6125de3229 440bd9aff84270f9a434b8e1aa329d1545757671 Dave C <12160407+dcchien@users.noreply.github.com> 1588815439 -0400	rebase -i (fixup): # This is a combination of 5 commits.
+440bd9aff84270f9a434b8e1aa329d1545757671 ba4167c693bd4e1b721cd3435b730b35cb08a7fa Dave C <12160407+dcchien@users.noreply.github.com> 1588815439 -0400	rebase -i (fixup): # This is a combination of 6 commits.
+ba4167c693bd4e1b721cd3435b730b35cb08a7fa 5ff11bda9ae1e900dc9803ef9de2b5bd799c6ce5 Dave C <12160407+dcchien@users.noreply.github.com> 1588815439 -0400	rebase -i (fixup): # This is a combination of 7 commits.
+5ff11bda9ae1e900dc9803ef9de2b5bd799c6ce5 56c1b693093ef17ea1a67156befeb7c1fc10f2cb Dave C <12160407+dcchien@users.noreply.github.com> 1588815439 -0400	rebase -i (fixup): # This is a combination of 8 commits.
+56c1b693093ef17ea1a67156befeb7c1fc10f2cb 333f657d6c7a7dada96c368e60c9e7251ac64004 Dave C <12160407+dcchien@users.noreply.github.com> 1588815440 -0400	rebase -i (fixup): # This is a combination of 9 commits.
+333f657d6c7a7dada96c368e60c9e7251ac64004 ef40ae02152bd7961c0247646610a483cfe1deca Dave C <12160407+dcchien@users.noreply.github.com> 1588815440 -0400	rebase -i (fixup): # This is a combination of 10 commits.
+ef40ae02152bd7961c0247646610a483cfe1deca 209f1f492a10ff31a384e66c44430986a6dc8070 Dave C <12160407+dcchien@users.noreply.github.com> 1588815497 -0400	rebase -i (continue): Update README.md
+209f1f492a10ff31a384e66c44430986a6dc8070 aa586814abc5306cea474b8f6dcf0c72aa1c5d8e Dave C <12160407+dcchien@users.noreply.github.com> 1588815502 -0400	rebase -i (fixup): # This is a combination of 2 commits.
+aa586814abc5306cea474b8f6dcf0c72aa1c5d8e 1f71fc6b0e18a5c4b40deb4bed2436f5593802b8 Dave C <12160407+dcchien@users.noreply.github.com> 1588815986 -0400	rebase -i (continue): Update README.md
+1f71fc6b0e18a5c4b40deb4bed2436f5593802b8 792de3bdfa29961ab24ed2b420106f2e9ca26f1f Dave C <12160407+dcchien@users.noreply.github.com> 1588816266 -0400	commit: latest README.md
+792de3bdfa29961ab24ed2b420106f2e9ca26f1f c493cb0c8d35abac827ed1bfc7cf7805d829c7fd Dave C <12160407+dcchien@users.noreply.github.com> 1588816884 -0400	commit (amend): latest README.md
+c493cb0c8d35abac827ed1bfc7cf7805d829c7fd 0e7d27d7ca0a4803fdad96f2c98002baf95fcf92 Dave C <12160407+dcchien@users.noreply.github.com> 1588816991 -0400	commit: -last update README.md
+0e7d27d7ca0a4803fdad96f2c98002baf95fcf92 0e7d27d7ca0a4803fdad96f2c98002baf95fcf92 Dave C <12160407+dcchien@users.noreply.github.com> 1588817054 -0400	checkout: moving from 0e7d27d7ca0a4803fdad96f2c98002baf95fcf92 to dev
+0e7d27d7ca0a4803fdad96f2c98002baf95fcf92 0e7d27d7ca0a4803fdad96f2c98002baf95fcf92 Dave C <12160407+dcchien@users.noreply.github.com> 1588817221 -0400	checkout: moving from dev to dev
+0e7d27d7ca0a4803fdad96f2c98002baf95fcf92 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588817420 -0400	checkout: moving from dev to master
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588817617 -0400	rebase -i (abort): updating HEAD
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588817617 -0400	rebase -i (abort): updating HEAD
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588817656 -0400	checkout: moving from master to fix
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588817720 -0400	rebase -i (start): checkout master
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588817720 -0400	rebase -i (finish): returning to refs/heads/fix
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 70e52e4c62f7ee96ec6f1d2638ce0f24fa3980e5 Dave C <12160407+dcchien@users.noreply.github.com> 1588817737 -0400	rebase -i (start): checkout HEAD~10
+70e52e4c62f7ee96ec6f1d2638ce0f24fa3980e5 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588817747 -0400	rebase -i (start): checkout master
+0000000000000000000000000000000000000000 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588818854 -0400	checkout: moving from fixm to fix
+d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 0000000000000000000000000000000000000000 Dave C <12160407+dcchien@users.noreply.github.com> 1588819844 -0400	Branch: renamed refs/heads/fix to refs/heads/master
+0000000000000000000000000000000000000000 d3d9e6d41a4124a51f2f5bddc939a97beca69ec6 Dave C <12160407+dcchien@users.noreply.github.com> 1588819844 -0400	Branch: renamed refs/heads/fix to refs/heads/master
